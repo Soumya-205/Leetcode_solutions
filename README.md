@@ -3,9 +3,10 @@ My Leetcode solutions in c++ for DSA prep
 
 pushed automatically via LeetHub.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1-blue?style=flat)
+![Leetcode Stats](https://leetcard.jacoblin.cool/soumyashradha?theme=light&font=Karma&ext=contest)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/soumyashradha449)
 
 ---
 
