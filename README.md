@@ -14,11 +14,11 @@ pushed automatically via LeetHub.
 
 | Topic | Status |
 |-------|--------|
-| Arrays | 🟡 In Progress |
-| Strings | ⬜ Upcoming |
+| Arrays | Completed |
+| Linked List | ⬜ Upcoming |
 | Hashmaps | ⬜ Upcoming |
-| Two Pointers | ⬜ Upcoming |
-| Sliding Window | ⬜ Upcoming |
+| Trees | ⬜ Upcoming |
+| Stack | ⬜ Upcoming |
 and many more...
 
 ---
