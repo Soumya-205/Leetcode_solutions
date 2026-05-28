@@ -15,7 +15,7 @@ pushed automatically via LeetHub.
 | Topic | Status |
 |-------|--------|
 | Arrays | Completed |
-| Linked List | ⬜ Upcoming |
+| Linked List | In Progress |
 | Hashmaps | ⬜ Upcoming |
 | Trees | ⬜ Upcoming |
 | Stack | ⬜ Upcoming |
