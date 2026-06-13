@@ -15,10 +15,10 @@ pushed automatically via LeetHub.
 | Topic | Status |
 |-------|--------|
 | Arrays | Completed |
-| Linked List | In Progress |
-| Hashmaps | ⬜ Upcoming |
+| Linked List | Completed |
+| Stack | In Progress |
+| Queue | ⬜ Upcoming |
 | Trees | ⬜ Upcoming |
-| Stack | ⬜ Upcoming |
 and many more...
 
 ---
