@@ -1,37 +1,40 @@
 class MyQueue {
+private: 
+    stack<int>input;
+    stack<int>output;
 public:
-    stack<int> s1;
-    stack<int> s2;
-    MyQueue() {
-        
+    //push the element into input
+    void push(int x){
+        input.push(x);
     }
-    
-    void push(int x) {  //O(n)
-        while(!s1.empty()){
-            s2.push(s1.top());
-            s1.pop();
+    //remove and return the element
+    int pop(){
+        if(output.empty()){
+            while(!input.empty()){
+                output.push(input.top());
+                input.pop();
+            }
         }
-        s1.push(x);
-
-        while(!s2.empty()){
-            s1.push(s2.top());
-            s2.pop();
-        }
-    }
-    
-    int pop() {
-        int ans=s1.top();
-        s1.pop();
+        int ans=output.top();
+        output.pop();
         return ans;
     }
-    
-    int peek() {
-        return s1.top();
+    //return the top element
+    int peek(){
+        if(output.empty()){
+            while(!input.empty()){
+                output.push(input.top());
+                input.pop();
+            }
+        }
+        return output.top();
+    }
+
+    //check if queue is empty
+    bool empty(){
+        return input.empty() && output.empty();
     }
     
-    bool empty() {
-        return s1.empty();
-    }
 };
 
 /**
