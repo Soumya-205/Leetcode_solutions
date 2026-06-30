@@ -1,55 +1,41 @@
-class Node{
-public:
-    string url;
-    Node* prev;
-    Node* next;
-
-    Node(string url){
-        this->url=url;
-        prev=NULL;
-        next=NULL;
-    }
-};
 class BrowserHistory {
 private:
-    Node* current;
+    stack<string>backStack;
+    stack<string>forwardStack;
+    string current;
 public:
     BrowserHistory(string homepage) {
-       current=new Node(homepage); 
+       current=homepage; 
     }
     
     void visit(string url) {
-        //delete all forward history
-        Node* temp=current->next;
-        while(temp){
-            Node* nxt=temp->next;
-            delete temp;
-            temp=nxt;
+        backStack.push(current);
+        current=url;
+
+        //clear forward history
+        while(!forwardStack.empty()){
+            forwardStack.pop();
         }
-        current->next=NULL;
-        //create new Node
-        Node* newNode=new Node(url);
-
-        current->next=newNode;
-        newNode->prev=current;
-
-        current=newNode;
     }
     
     string back(int steps) {
-        while(steps>0 && current->prev!=NULL){
-            current=current->prev;
-            steps--;
-        }
-        return current->url;
+       while(steps>0 && !backStack.empty()){
+         forwardStack.push(current);
+         current=backStack.top();
+         backStack.pop();
+         steps--;
+       }
+       return current;
     }
     
     string forward(int steps) {
-        while(steps>0 && current->next!=NULL){
-            current=current->next;
+        while(steps>0 && !forwardStack.empty()){
+            backStack.push(current);
+            current=forwardStack.top();
+            forwardStack.pop();
             steps--;
         }
-        return current->url;
+        return current;
     }
 };
 
