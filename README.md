@@ -16,8 +16,8 @@ pushed automatically via LeetHub.
 |-------|--------|
 | Arrays | Completed |
 | Linked List | Completed |
-| Stack | In Progress |
-| Queue | ⬜ Upcoming |
+| Stack | Completed |
+| Queue | In Progress |
 | Trees | ⬜ Upcoming |
 and many more...
 
