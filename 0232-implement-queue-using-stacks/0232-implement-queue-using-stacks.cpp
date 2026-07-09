@@ -1,40 +1,48 @@
 class MyQueue {
-private: 
-    stack<int>input;
-    stack<int>output;
 public:
-    //push the element into input
-    void push(int x){
-        input.push(x);
-    }
-    //remove and return the element
-    int pop(){
-        if(output.empty()){
-            while(!input.empty()){
-                output.push(input.top());
-                input.pop();
-            }
-        }
-        int ans=output.top();
-        output.pop();
-        return ans;
-    }
-    //return the top element
-    int peek(){
-        if(output.empty()){
-            while(!input.empty()){
-                output.push(input.top());
-                input.pop();
-            }
-        }
-        return output.top();
-    }
-
-    //check if queue is empty
-    bool empty(){
-        return input.empty() && output.empty();
+    stack<int> s1,s2;
+    MyQueue() {
+        
     }
     
+    void push(int x) {
+        s1.push(x);
+    }
+    
+    int pop() {
+        //transfer the element from s1 to s2
+        if(s2.empty()){
+            while(!s1.empty()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+        }
+        if(s2.empty()){
+            cout<<"Queue is empty\n";
+            return -1;
+        }
+        int front=s2.top();
+        s2.pop();
+        return front;
+    }
+    
+    int peek() {
+        if(s2.empty()){
+            while(!s1.empty()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+        }
+        if(s2.empty()){
+            cout<<"Queue is empty\n";
+            return -1;
+        }
+        return s2.top();
+    }
+    
+    bool empty() {
+        return s1.empty() && s2.empty();
+    }
 };
 
 /**
