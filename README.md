@@ -65,8 +65,18 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
+## Array
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
