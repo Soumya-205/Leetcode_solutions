@@ -30,3 +30,19 @@ Each problem gets its own folder named with the solution file inside — organiz
 ---
 
 > Solving 3 problems daily as part of structured DSA prep.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+<!---LeetCode Topics End-->
