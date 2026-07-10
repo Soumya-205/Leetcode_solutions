@@ -61,6 +61,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -73,14 +74,20 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0225-implement-stack-using-queues](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
