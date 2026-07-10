@@ -75,12 +75,14 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Soumya-205/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Array
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Soumya-205/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
 | ------- |
@@ -90,4 +92,5 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Soumya-205/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
