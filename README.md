@@ -74,6 +74,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0225-implement-stack-using-queues](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Soumya-205/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Array
@@ -93,4 +94,12 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Soumya-205/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
