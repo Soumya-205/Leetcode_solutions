@@ -18,7 +18,7 @@ A curated collection of my **accepted LeetCode solutions** implemented in **C++1
 | ✅ Linked Lists | Completed |
 | ✅ Stacks | Completed |
 | ✅ Queues | Completed |
-| ⏳ Binary Search | Upcoming |
+| ⏳ Binary Search | In Progress |
 | ⏳ Trees | Upcoming |
 | ⏳ Heaps | Upcoming |
 | ⏳ Graphs | Upcoming |
