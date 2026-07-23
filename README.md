@@ -85,6 +85,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0239-sliding-window-maximum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Soumya-205/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -124,6 +125,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
