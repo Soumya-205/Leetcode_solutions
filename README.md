@@ -82,6 +82,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
@@ -125,6 +126,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
