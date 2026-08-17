@@ -127,6 +127,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -137,5 +138,6 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
