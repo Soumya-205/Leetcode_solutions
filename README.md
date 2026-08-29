@@ -82,6 +82,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
@@ -140,4 +141,8 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [0278-first-bad-version](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
