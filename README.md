@@ -86,6 +86,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
@@ -165,5 +166,10 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
