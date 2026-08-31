@@ -87,6 +87,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
@@ -150,6 +151,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [0001-two-sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
