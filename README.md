@@ -88,6 +88,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
@@ -152,6 +153,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [0001-two-sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -172,4 +174,8 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
