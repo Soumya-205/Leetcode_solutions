@@ -83,6 +83,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -115,6 +116,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
@@ -158,6 +160,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
 ## Sorting
 |  |
