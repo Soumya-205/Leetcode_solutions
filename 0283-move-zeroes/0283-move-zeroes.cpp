@@ -5,10 +5,12 @@ public:
 
         for(int i=0;i<nums.size();i++){
             if(nums[i]!=0){
-                swap(nums[i],nums[j]);
+                nums[j]=nums[i];
                 j++;
             }
         }
-        
+        for(int i=j;i<nums.size();i++){
+            nums[i]=0;
+        }
     }
 };
