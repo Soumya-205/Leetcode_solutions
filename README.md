@@ -92,6 +92,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0622-design-circular-queue](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0704-binary-search) |
@@ -162,6 +163,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [0011-container-with-most-water](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
