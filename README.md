@@ -85,6 +85,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0001-two-sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -163,6 +164,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [0011-container-with-most-water](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
