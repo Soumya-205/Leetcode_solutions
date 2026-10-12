@@ -115,6 +115,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | ------- |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
@@ -162,6 +163,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0015-3sum](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
