@@ -10,32 +10,26 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* head1, ListNode* head2) {
-        
-        //create a dummy node for easy insertion
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         ListNode* dummy=new ListNode(0);
         ListNode* tail=dummy;
 
-        while(head1!=NULL && head2!=NULL){
-            if(head1->val<=head2->val){
-                tail->next=head1;
-                head1=head1->next;
+        while(list1!=NULL && list2!=NULL){
+            if(list1->val <= list2->val){
+                tail->next=list1;
+                list1=list1->next;
             }else{
-                tail->next=head2;
-                head2=head2->next;
+                tail->next=list2;
+                list2=list2->next;
             }
             tail=tail->next;
         }
-        //if head1 ele is still left and head2 is null
-        if(head1!=NULL){
-            tail->next=head1;
+        if(list1!=NULL){
+            tail->next=list1;
         }
-        //if head2 ele are still left and head1 is null
-        if(head2!=NULL){
-            tail->next=head2;
+        if(list2!=NULL){
+            tail->next=list2;
         }
         return dummy->next;
-
-        
     }
 };
