@@ -60,6 +60,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Soumya-205/Leetcode_solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -113,6 +114,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -194,4 +196,8 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
