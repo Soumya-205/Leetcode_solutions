@@ -116,6 +116,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0049-group-anagrams](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Consistently solve **3 LeetCode problems per day** while strengthening problem-s
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/Soumya-205/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 ## Sorting
 |  |
 | ------- |
